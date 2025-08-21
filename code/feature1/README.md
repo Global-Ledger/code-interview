@@ -16,14 +16,3 @@ Please read through all three files and answer the following questions. Your res
 1. What does the `parallel` function do?
 2. How would you use it and why?
 3. What is happening there and why? Like explanation to a junior (adding 'i'd prefer a different approach ...' is very ok)
-
-## What We're Looking For
-
-- Clear understanding of async iteration and stream control
-- Ability to trace data flow across multiple modules
-- Awareness of error handling and resource cleanup
-- Thoughtful testing strategies
-
-You may write your answers in a separate markdown file or annotate the code directly. This exercise is designed to evaluate both your technical insight and your ability to communicate it clearly.
-
-
