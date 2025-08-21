@@ -9,8 +9,8 @@ This folder contains three TypeScript files (`file1.ts`, `file2.ts`, `file3.ts`)
 - `file3.ts`: Contains utility logic, including `assignSymbol`, which ensures objects conform to the `AsyncIterator` protocol.
 
 These files are adapted from the following open-source modules:
-- [`file2.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file2)
-- [`file3.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file3)
+- [`file2.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file2.ts)
+- [`file3.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file3.ts)
 
 ##  Your Task
 
