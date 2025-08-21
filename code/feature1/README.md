@@ -4,7 +4,7 @@ This folder contains three TypeScript files (`file1.ts`, `file2.ts`, `file3.ts`)
 
 ## File Overview
 
-### `file1.ts`
+### [`file1.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file1.ts)
 Implements the `parallel` function where rely on the following modules from the `utils` library:
 - [`file2.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file2.ts)
 - [`file3.ts`](https://github.com/Global-Ledger/code-interview/blob/develop/code/feature1/file3.ts)
