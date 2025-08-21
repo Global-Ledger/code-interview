@@ -14,10 +14,8 @@ Implements the `parallel` function where rely on the following modules from the 
 Please read through all three files and answer the following questions. Your responses will help us assess your understanding of asynchronous iteration, stream control, and error handling.
 
 1. What does the `parallel` function do?
-2. How does `channel.push(next)` work, and what is the role of `highWaterMark`?
-3. Why is `Promise.allSettled` used when closing cursors?
-4. What happens if one of the cursors throws an exception?
-5. How would you test this code?
+2. How would you use it and why?
+3. What is happening there and why? Like explanation to a junior (adding 'i'd prefer a different approach ...' is very ok)
 
 ## What We're Looking For
 
